@@ -1,0 +1,131 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.focused-area {
+  display: flex;
+  width: 100%;
+}
+
+.images-size img {
+  width: 60%;
+  height: auto;
+  padding-left: 10%;
+}
+.details{
+    padding-left: 10%;
+    margin-top: 5%;
+}
+.details a{
+    background-image: linear-gradient(to right, red , yellow);
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color:white;
+    font-weight: 700;
+    
+}
+   span{
+    color: coral;
+    }
+    #middle{
+      text-align: center;
+      margin-top: 52px;
+      margin-bottom: 50px;
+    }
+.fission-area{
+  display: flex;
+  width:80% ;
+  margin-left: 10%;
+}
+.fission-area div img{
+  width: 50%;
+}
+#mission{
+  background-color: #FFF0F5;
+  margin-right: 2%;
+  border-radius: 22px;
+  padding-left: 2%;
+}
+#vission{
+  background-color: #ADD8E6;
+  margin-right: 2%;
+  border-radius: 22px;
+  padding-left: 2%;
+}
+#goals{
+  background-color: #DEB887;
+  margin-right: 2%;
+  border-radius: 22px;
+  padding-left: 2%;
+}
+.develop-area{
+  display: flex;
+  margin-top: 72px;
+   margin-bottom: 70px;
+   background-image: url("images/shapes/dream-bg.png");
+   background-repeat: no-repeat;
+   background-position: left;
+   
+}
+.develop-area img{
+  width: 65%;
+  height: auto;
+ margin-left: 22%;
+}
+#develop{
+ margin-right: 10%;
+ margin-top: 5%;
+}
+
+#develop a{
+  background-image: linear-gradient(to right, red , yellow);
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color:white;
+    font-weight: 700;
+}
+.global-area{
+  display: flex;
+  margin-top: 72px;
+   margin-bottom: 70px;
+   background-image: url("images/shapes/dream-bg.png");
+   background-repeat: no-repeat;
+   background-position: right;
+}
+.global-area img{
+  width: 75%;
+  height: auto;
+
+}
+#golbal{
+  width: 75%;
+  height: auto;
+ margin-left: 10%;
+ margin-top:5% ;
+}
+.picture{
+  margin-left: 10%;
+  width: 80%;
+}
+#golbal a{
+  background-image: linear-gradient(to right, red , yellow);
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color:white;
+    font-weight: 700;
+}
+footer{
+  background-color: rgba(36, 24, 24, 0.726);
+}
+footer h1{
+  text-align: center;
+  color: whitesmoke
+}
+footer p{
+  text-align: center;
+  color: whitesmoke;
+}
